@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RotaViagem.Console": {
+      "commandName": "Project",
+      "commandLineArgs": "rotas.csv"
+    }
+  }
+}
